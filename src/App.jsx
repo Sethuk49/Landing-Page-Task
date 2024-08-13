@@ -11,7 +11,7 @@ import testimonials1 from './assets/testimonials-1.jpg'
 import testimonials2 from './assets/testimonials-2.jpg'
 import testimonials3 from './assets/testimonials-3.jpg'
 import Email from './Components/Email'
-import Footer from './Components/footer'
+import Footer from './Components/Footer'
 
 function App() {
 
